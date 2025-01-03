@@ -46,9 +46,3 @@ I'm a passionate Computer Engineering student at Thapar Institute of Engineering
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AayushiPuri&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=AayushiPuri&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
