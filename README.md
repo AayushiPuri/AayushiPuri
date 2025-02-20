@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayushi Puri</h1>
-<h3 align="center">
-I'm a passionate Computer Engineering student at Thapar Institute of Engineering and Technology. I have a keen interest in Machine Learning, Data Science, and Data Analysis. I enjoy transforming data into actionable insights and building intelligent systems that solve real-world problems. Currently, I'm expanding my skills in these areas and am eager to collaborate on innovative projects. Let's connect and tackle exciting challenges together!
+<h3 align="left">
+I'm a passionate Computer Engineering student at Thapar Institute of Engineering and Technology. I am keenly interested in Machine Learning, Data Science, and Data Analysis. I enjoy transforming data into actionable insights and building intelligent systems that solve real-world problems. I'm expanding my skills in these areas and am eager to collaborate on innovative projects. Let's connect and tackle exciting challenges together!
 </h3>
 
 ---
